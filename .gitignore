@@ -1,0 +1,11 @@
+/data
+/data/**
+
+/data_old
+/data_old/**
+
+/wandb
+/gifs
+
+*.png
+*.pth
